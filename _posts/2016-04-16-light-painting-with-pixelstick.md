@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T21:23:34.436Z'
+datePublished: '2016-08-03T21:26:07.717Z'
 sourcePath: _posts/2016-04-16-light-painting-with-pixelstick.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/78163959'
@@ -10,8 +10,9 @@ author:
   - name: Bitbanger
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
-dateModified: '2016-08-03T21:23:33.643Z'
-title: Light painting with pixelstick
+via: {}
+dateModified: '2016-08-03T21:26:04.437Z'
+title: Blah blah blah
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
     type: ios
@@ -51,10 +52,13 @@ description: >-
   finally show off what it can do. Everything was shot by just two slightly
   sleep deprived guys and one Pixelstick in Brooklyn.
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+# Blah blah blah
+
+> New information here.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F78163959&amp;url=https%3A%2F%2Fvimeo.com%2F78163959&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
